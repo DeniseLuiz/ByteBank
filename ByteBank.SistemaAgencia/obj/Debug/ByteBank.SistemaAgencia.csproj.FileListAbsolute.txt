@@ -1,0 +1,10 @@
+C:\Users\Denise\Documents\GitHub\complete-ByteBank\Bytebank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe.config
+C:\Users\Denise\Documents\GitHub\complete-ByteBank\Bytebank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\Denise\Documents\GitHub\complete-ByteBank\Bytebank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.pdb
+C:\Users\Denise\Documents\GitHub\complete-ByteBank\Bytebank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.dll
+C:\Users\Denise\Documents\GitHub\complete-ByteBank\Bytebank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\Denise\Documents\GitHub\complete-ByteBank\Bytebank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csprojAssemblyReference.cache
+C:\Users\Denise\Documents\GitHub\complete-ByteBank\Bytebank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
+C:\Users\Denise\Documents\GitHub\complete-ByteBank\Bytebank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CopyComplete
+C:\Users\Denise\Documents\GitHub\complete-ByteBank\Bytebank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\Denise\Documents\GitHub\complete-ByteBank\Bytebank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb

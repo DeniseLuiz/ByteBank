@@ -1,0 +1,6 @@
+C:\Users\Denise\Documents\GitHub\complete-ByteBank\Bytebank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Users\Denise\Documents\GitHub\complete-ByteBank\Bytebank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\Denise\Documents\GitHub\complete-ByteBank\Bytebank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csprojAssemblyReference.cache
+C:\Users\Denise\Documents\GitHub\complete-ByteBank\Bytebank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Denise\Documents\GitHub\complete-ByteBank\Bytebank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Users\Denise\Documents\GitHub\complete-ByteBank\Bytebank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
